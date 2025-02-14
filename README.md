@@ -1,5 +1,2 @@
-# Learning_ML
-This is my little journey of learning about Machine Learning.
-
-I am reading Probabilistic Machine Learning (introduction and advanced) so a lot of exercises will be from the book.
-
+# Learning_parallel_in_parallel
+This is my little journey of learning about learning CUDA for fun and to stay in shape.
